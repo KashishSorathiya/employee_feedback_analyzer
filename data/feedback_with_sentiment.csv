@@ -1,0 +1,51 @@
+Employee,Department,Feedback,Rating,Sentiment
+Charlie,Finance,Mixed experiences with different teams,3,Neutral
+Diana,HR,Unfair performance evaluation process,2,Negative
+Alice,Operations,Excellent benefits and compensation package,2,Positive
+Bob,Marketing,Rewarding recognition for achievements,4,Positive
+Diana,Marketing,Standard training programs,4,Neutral
+Ethan,Marketing,Lack of recognition for hard work,2,Negative
+Bob,Operations,Some processes need improvement,5,Neutral
+Alice,HR,Limited career advancement opportunities,2,Neutral
+Charlie,IT,Frustrated with outdated technology,4,Negative
+Charlie,IT,Disorganized project management,3,Neutral
+Charlie,IT,Flexible working hours and good work-life balance,2,Positive
+Ethan,IT,Acceptable compensation but room for improvement,5,Neutral
+Alice,Marketing,Flexible working hours and good work-life balance,5,Positive
+Diana,IT,Fantastic leadership and clear direction,3,Positive
+Charlie,Operations,Love the collaborative atmosphere,5,Positive
+Charlie,Finance,Rewarding recognition for achievements,2,Positive
+Bob,Operations,Satisfactory management practices,3,Neutral
+Charlie,Operations,Acceptable compensation but room for improvement,1,Neutral
+Ethan,Marketing,Rewarding recognition for achievements,1,Positive
+Bob,IT,Excellent health benefits and wellness programs,2,Positive
+Alice,HR,Adequate communication channels,5,Positive
+Alice,HR,Toxic workplace environment and office politics,1,Neutral
+Diana,Marketing,Toxic workplace environment and office politics,3,Neutral
+Alice,Finance,Insufficient training for new technologies,3,Positive
+Ethan,HR,Competitive salary and bonus structure,4,Neutral
+Bob,Finance,Innovative projects and cutting-edge technology,5,Positive
+Ethan,Finance,Toxic workplace environment and office politics,4,Neutral
+Diana,Operations,Great work environment and supportive team!,2,Positive
+Diana,IT,Satisfactory management practices,5,Neutral
+Bob,Marketing,Extremely dissatisfied with management decisions,5,Negative
+Charlie,Operations,Competitive salary and bonus structure,2,Neutral
+Bob,HR,Reasonable workload most of the time,2,Positive
+Bob,Marketing,High turnover rate affecting team morale,4,Positive
+Ethan,HR,Impressive training and development programs,4,Positive
+Bob,IT,Great work environment and supportive team!,5,Positive
+Alice,Finance,Insufficient training for new technologies,4,Positive
+Charlie,Marketing,Poor leadership and unclear direction,2,Negative
+Diana,Operations,Some processes need improvement,4,Neutral
+Ethan,IT,Impressive training and development programs,3,Positive
+Diana,Marketing,Unfair performance evaluation process,5,Negative
+Diana,Operations,Extremely dissatisfied with management decisions,5,Negative
+Bob,Marketing,Standard training programs,4,Neutral
+Diana,Marketing,Disorganized project management,2,Neutral
+Ethan,Marketing,Inclusive workplace culture and diversity,3,Neutral
+Alice,Finance,Toxic workplace environment and office politics,4,Neutral
+Charlie,Operations,Excellent health benefits and wellness programs,5,Positive
+Ethan,Marketing,Micromanagement is hampering productivity,4,Neutral
+Charlie,IT,Competitive salary and bonus structure,5,Neutral
+Ethan,Finance,Toxic workplace environment and office politics,1,Neutral
+Charlie,Marketing,Innovative projects and cutting-edge technology,5,Positive

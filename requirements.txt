@@ -1,0 +1,65 @@
+Purpose of Each Dependency
+Here’s what each package does in our project:
+
+colorama==0.4.6
+Provides cross-platform colored text output in the terminal (optional for better CLI experience).
+
+contourpy==1.3.0
+Backend library used by matplotlib for creating complex contour plots and improving chart rendering.
+
+cycler==0.12.1
+Manages color cycles and style settings in matplotlib for consistent chart visuals.
+
+fonttools==4.59.0
+Enables advanced font handling in matplotlib for rendering readable and styled charts.
+
+importlib-resources==6.5.2
+Helps in managing internal resource files (e.g., templates, configs) packaged with Python modules.
+
+joblib==1.5.1
+Speeds up processing by enabling caching and parallelization, useful if sentiment analysis expands to large datasets.
+
+kiwisolver==1.4.7
+A dependency of matplotlib for solving layout constraints in figure rendering.
+
+matplotlib==3.9.4
+The core library for visualizing analysis results (rating distribution, department charts, sentiment plots).
+
+nltk==3.9.1
+Natural Language Toolkit – used for text processing (tokenization, stopword removal) and improving sentiment analysis accuracy.
+
+numpy==2.0.2
+Handles numerical computations and matrix operations, used internally by pandas and matplotlib.
+
+packaging==25.0
+Helps manage versioning and packaging metadata for libraries.
+
+pandas==2.3.1
+The backbone for loading, cleaning, grouping, and analyzing employee feedback data.
+
+pillow==11.3.0
+Image processing library used by matplotlib for saving visual outputs like charts in PNG format.
+
+pyparsing==3.2.3
+Helps with parsing syntax in matplotlib for complex chart configurations.
+
+python-dateutil==2.9.0.post0
+Simplifies working with dates/timestamps (e.g., for versioned report filenames).
+
+pytz==2025.2 & tzdata==2025.2
+Handle timezone-aware date/time operations for report generation and timestamping.
+
+regex==2025.7.31
+Enhanced regular expression library for better keyword extraction and text preprocessing.
+
+six==1.17.0
+Ensures Python 2/3 compatibility for some dependent libraries (matplotlib, nltk).
+
+textblob==0.19.0
+Main library for sentiment analysis (classifying feedback as Positive, Negative, or Neutral).
+
+tqdm==4.67.1
+Provides a progress bar for long-running operations (future-proofing if we add batch analysis).
+
+zipp==3.23.0
+Used internally by importlib-resources for managing compressed resources.

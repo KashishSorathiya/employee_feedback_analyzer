@@ -1,0 +1,149 @@
+{
+    "average_rating": 3.4,
+    "rating_distribution": {
+        "5": 14,
+        "4": 12,
+        "2": 12,
+        "3": 8,
+        "1": 4
+    },
+    "sentiment_distribution": {
+        "Neutral": 22,
+        "Positive": 21,
+        "Negative": 7
+    },
+    "department_sentiment": {
+        "Negative": {
+            "Finance": 0,
+            "HR": 1,
+            "IT": 1,
+            "Marketing": 4,
+            "Operations": 1
+        },
+        "Neutral": {
+            "Finance": 4,
+            "HR": 3,
+            "IT": 4,
+            "Marketing": 6,
+            "Operations": 5
+        },
+        "Positive": {
+            "Finance": 4,
+            "HR": 3,
+            "IT": 5,
+            "Marketing": 5,
+            "Operations": 4
+        }
+    },
+    "department_ratings": {
+        "mean": {
+            "Finance": 3.25,
+            "HR": 2.857142857142857,
+            "IT": 3.7,
+            "Marketing": 3.533333333333333,
+            "Operations": 3.4
+        },
+        "min": {
+            "Finance": 1,
+            "HR": 1,
+            "IT": 2,
+            "Marketing": 1,
+            "Operations": 1
+        },
+        "max": {
+            "Finance": 5,
+            "HR": 5,
+            "IT": 5,
+            "Marketing": 5,
+            "Operations": 5
+        },
+        "count": {
+            "Finance": 8,
+            "HR": 7,
+            "IT": 10,
+            "Marketing": 15,
+            "Operations": 10
+        }
+    },
+    "keywords": {
+        "positive": {
+            "programs": 4,
+            "training": 4,
+            "excellent": 3,
+            "benefits": 3,
+            "rewarding": 3
+        },
+        "negative": {
+            "unfair": 2,
+            "performance": 2,
+            "evaluation": 2,
+            "process": 2,
+            "extremely": 2
+        },
+        "neutral": {
+            "workplace": 6,
+            "toxic": 5,
+            "environment": 5,
+            "office": 5,
+            "politics": 5
+        }
+    },
+    "department_keywords": {
+        "Finance": {
+            "positive": {
+                "insufficient": 2,
+                "training": 2,
+                "new": 2
+            },
+            "negative": {}
+        },
+        "HR": {
+            "positive": {
+                "adequate": 1,
+                "communication": 1,
+                "channels": 1
+            },
+            "negative": {
+                "unfair": 1,
+                "performance": 1,
+                "evaluation": 1
+            }
+        },
+        "Operations": {
+            "positive": {
+                "excellent": 2,
+                "benefits": 2,
+                "compensation": 1
+            },
+            "negative": {
+                "extremely": 1,
+                "dissatisfied": 1,
+                "management": 1
+            }
+        },
+        "Marketing": {
+            "positive": {
+                "rewarding": 2,
+                "recognition": 2,
+                "achievements": 2
+            },
+            "negative": {
+                "lack": 1,
+                "recognition": 1,
+                "hard": 1
+            }
+        },
+        "IT": {
+            "positive": {
+                "programs": 2,
+                "flexible": 1,
+                "working": 1
+            },
+            "negative": {
+                "frustrated": 1,
+                "outdated": 1,
+                "technology": 1
+            }
+        }
+    }
+}
